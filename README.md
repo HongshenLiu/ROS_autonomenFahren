@@ -20,7 +20,7 @@ Hardware:
   Mit diesem Modell kann der smart Car lange Zeit problemlos auf der gebauten Strecke fahren. 
   
   Hier zeigt das Ergebnis:
-  
+  ![image](https://github.com/HongshenLiu/ROS_autonomenFahren/blob/master/opencv_car/result.gif)
 
 ## Projekt 2: Autonome Navigation und Hindernisse vermeiden
 
