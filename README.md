@@ -1,5 +1,5 @@
 # ROS_autonomenFahren
-  In den letzten Semestern habe ich Kurse zu maschinellem Lernen und Steuerungsmethoden belegt, und in meiner Freizeit habe ich mir C++ und ROS und einige grundlegende Algorithmen für autonomes Fahren selbst beigebracht. Aber ich kann das Prinzip immer noch nicht ganz verstehen. Deswegen habe ich zwei Projekte mit die Smart-Car-Plattform, die von mir gebaut wurden, gemacht, um die praktische Anwendung dieser Algorithmen besser zu verstehen. Und in Zukunft kann die Plattform genutzt werden, um einige Lösungen, die von praktischen Anwendungen benötigt werden, schnell zu verifizieren und umzusetzen.
+  In den letzten Semestern habe ich Kurse zu maschinellem Lernen und Regelungsmethoden belegt, und in meiner Freizeit habe ich mir C++ und ROS und einige grundlegende Algorithmen für autonomes Fahren selbst beigebracht. Aber ich kann das Prinzip immer noch nicht ganz verstehen. Deswegen habe ich zwei Projekte mit die Smart-Car-Plattform, die von mir gebaut wurden, gemacht, um die praktische Anwendung dieser Algorithmen besser zu verstehen. Und in Zukunft kann die Plattform genutzt werden, um einige Lösungen, die von praktischen Anwendungen benötigt werden, schnell zu verifizieren und umzusetzen.
 
 ## Projekt 1. Spurhalten
 
