@@ -38,7 +38,7 @@ Hardware:
 In diesem Projekt erfolgte die Geschwindigkeitsregelung mit dem PID-Algorithmus auf dem Arduino-Board. Die Kommunikation zwischen Raspberry Pi und Arduino-Board, die Funktionen des Kartenaufbaus, der Navigation und der automatischen Hindernisvermeidung wurden realisiert. Die Daten vom imu, die durch Kalmanfilter gefiltert werden, mit den Encoderdaten fusioniert, damit der Kilometerzähler optimiert wurde.  
 
 Hier zeigt das Ergebnis:
-  
+![image](https://github.com/HongshenLiu/ROS_autonomenFahren/blob/master/Smart_car/result.gif)
 
   
 
