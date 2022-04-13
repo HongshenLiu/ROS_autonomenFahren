@@ -22,7 +22,7 @@ Hardware:
   Hier zeigt das Ergebnis:
   ![image](https://github.com/HongshenLiu/ROS_autonomenFahren/blob/master/opencv_car/result.gif)
 
-## Projekt 2: Autonome Navigation und Hindernisse vermeiden
+## Projekt 2: Autonome Navigation und Kollisionsvermeidung
 
 Hardware:  
 
